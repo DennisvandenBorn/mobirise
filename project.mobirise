@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "intro.html",
+    "currentPage": "Home.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -703,7 +703,7 @@
           },
           "title": "<i>Doing Beyond</i>&nbsp;",
           "text": "<br><br><br><br><br><br><br><br><br><br><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">Iedereen kent wel een moment in zijn of haar loopbaan dat je op een </span><span style=\"font-style: normal;\">kruispunt staat voor iets nieuws. Ik neem nu de gewaagde keuze om een andere weg in te slaan en een <b>andere horizon</b> te kiezen.<br><br>Hallo, ik ben Dennis van den Born. </span><br><span style=\"font-style: normal;\">Mijn persoonlijk credo is niet voor niets samen te vatten in de woorden: \"Doing Beyond\". Voorbij de grens van het gevraagde gaan. Iedere keer weer een stap extra zetten om te verrassen.&nbsp;<br></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Who I am.html\" data-toolbar=\"-mbrBtnMove\">WHO I AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT I CAN DO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Who am I.html\" data-toolbar=\"-mbrBtnMove\">WHO I AM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT I CAN DO</a>"
         },
         {
           "_name": "footer1",
